@@ -1,13 +1,10 @@
 # The RegEx || REGGAE
 
-
 Welcome, here we'll go over what these regex ideas do and what they're functions are. 
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 Regular Expression, also known as RegEx to others is a sequence of characters that specifies a pattern in the text. This is generally used inside a string-searching algorithm to find or find and replace a string. It’ll take a control or basis which would be your RegEx sequence. This will compare against a database of strings or a given string to validate if the RegEx sequence matches your input or the database of strings. 
-
 
 ## Table of Contents
 
